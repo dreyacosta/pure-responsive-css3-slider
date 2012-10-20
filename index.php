@@ -44,9 +44,6 @@
                     </li>
                 </ul>
             </div>
-            <div class="descarga">
-                <p><a href="source/responsive_css3_slider.zip">Download source</a></p>
-            </div>
         </div>
     </body>
 </html>
