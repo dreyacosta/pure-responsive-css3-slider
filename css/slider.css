@@ -12,12 +12,12 @@
 .slider ul {
 	width: 1000%;
 	height: auto;
-    position: relative;
-    list-style: none;
-    left: 0;
-    margin: 0;
-    padding: 0;
-    line-height: 0;
+	position: relative;
+	list-style: none;
+	left: 0;
+	margin: 0;
+	padding: 0;
+	line-height: 0;
 	-moz-animation:slide-animation 15s infinite;
 	-webkit-animation:slide-animation 15s infinite;
 }
