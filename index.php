@@ -19,7 +19,6 @@
     <body>
         <div id="main">
             <header>
-<span>Automatic pull</span>
                 <h1>Responsive CSS3 Slider</h1>
                 <p>A pure responsive CSS3 Slider without Javascript</p>
                 <p><em><strong>by <a href="http://dreyacosta.com" target=_blank>David Rey</a></strong></em></p>
