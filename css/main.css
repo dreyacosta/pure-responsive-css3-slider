@@ -1,0 +1,24 @@
+body {
+  background: #fcfcfc;
+}
+
+header {
+  margin-bottom: 2em;
+}
+
+#main {
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 4%;
+  font-weight:300;
+  font-family: 'Open Sans', Verdana;
+  text-align: center;
+}
+
+.btn {
+  background: #39c;
+  border-radius: 4px;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+}
